@@ -10,5 +10,5 @@ index.html and associated files draw a Sankey diagram, mostly using D3.js.
 The diagram shows what happens to bills in the Legislature.
 
 
-The final product, after Photoshop annotation is at: http://greencracker.net/?p=2321
+The final product, after Photoshop annotation and with footnotes is at: http://greencracker.net/?p=2321
 
