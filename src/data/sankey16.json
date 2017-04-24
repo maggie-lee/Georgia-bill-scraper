@@ -1,0 +1,26 @@
+
+{
+"nodes":
+[{"name":"total"},
+{"name":"honors"},
+{"name":"debatable"},
+{"name":"honor_pass"},
+{"name":"all_dead"},
+{"name":"one_chamber"},
+{"name":"generals_passed_both"},
+{"name":"locals_passed_both"},
+{"name":"new_laws"}],
+"links": [{"source":"total","target":"honors","value":2.801},
+{"source":"total","target":"debatable","value":2.033},
+{"source":"honors","target":"honor_pass","value":2.799},
+{"source":"honors","target":"all_dead","value":0.002},
+{"source":"debatable","target":"one_chamber","value":0.941},
+{"source":"debatable","target":"all_dead","value":1.092},
+{"source":"one_chamber","target":"all_dead","value":0.185},
+{"source":"one_chamber","target":"generals_passed_both","value":0.495},
+{"source":"one_chamber","target":"locals_passed_both","value":0.261},
+{"source":"generals_passed_both","target":"all_dead","value":0.021},
+{"source":"locals_passed_both","target":"all_dead","value":0.006},
+{"source":"generals_passed_both","target":"new_laws","value":0.474},
+{"source":"locals_passed_both","target":"new_laws","value":0.255}]
+}
