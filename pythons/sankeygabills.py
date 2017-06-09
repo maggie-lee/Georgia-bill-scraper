@@ -9,7 +9,7 @@
 #
 # The the result is published here: 
 #
-# http://greencracker.net/?p=2321
+# http://maggielee.net/?p=2321
 ###
 
 
