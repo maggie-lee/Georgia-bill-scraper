@@ -9,7 +9,7 @@ sankeygabills.py sorts bills into separate spreadsheets by their final status: l
 index.html and associated files draw a Sankey diagram, using D3.js.
 The diagram shows what happens to bills in the Legislature.
 
-Then that gets annotated and fixed up in Photoshop. <a href="https://raw.githubusercontent.com/greencracker/Georgia-bill-scraper/master/sankey16_export.png target="_blank">See it here.</a>
+Then that gets annotated and fixed up in Photoshop. <a href="https://raw.githubusercontent.com/greencracker/Georgia-bill-scraper/master/sankey16_export.png" target="_blank">See it here.</a>
   
 Footnotes:
 
